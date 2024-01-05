@@ -1,0 +1,36 @@
+.container{
+    margin: 25px;
+
+}
+.advanced label{
+margin-right: 70%;
+color: gray;
+
+}
+.advanced label span{
+    color: red;
+}
+.advanced input{
+    width: 80%;
+}
+.advanced input::placeholder{
+    color: gray;
+    opacity: 0.8;
+}
+.advanced2 input{
+    width: 40%;
+}
+.advanced2 input::placeholder{
+    color: gray;
+    opacity: 0.8;
+}
+.advanced2 label span{
+    color: red;
+}
+.advanced2 label{
+    margin-right: 80%;
+    color: gray;
+    margin-top: 20px;
+    
+    }
+    

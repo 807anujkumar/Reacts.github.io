@@ -1,0 +1,35 @@
+.orderinput label{
+    margin-right: 60%;
+    margin-left: -8%;
+    margin-top: 5%;
+    color: gray;
+
+}
+.orderinput input{
+    width: 80%;
+}
+.orderinput input::placeholder {
+    color:gray;
+    font-size:medium;
+    opacity: 0.6;
+
+}
+.orderinput label span{
+    color: red;
+}
+.advanced{
+    margin-right: 70%;
+    margin-left: -8%;
+    margin-top: 20px;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.advanced span{
+ margin: 5px;
+ font-size: larger;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-weight: 500;
+ 
+}
